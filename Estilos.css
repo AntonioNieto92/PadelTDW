@@ -52,7 +52,8 @@
 
     td a {
         font-family: sans-serif;
-        color: black;
+        color: dodgerblue;
+        font-weight: bold;
     }
 
     td a:hover {
@@ -228,7 +229,8 @@
         background-color:floralwhite;
         text-align: center;
         font-family: sans-serif;
-        color: black;
+        color: dodgerblue;
+        font-weight: bold;
         width: 403px;
         height: 28px;
         background-color:lightgoldenrodyellow;
